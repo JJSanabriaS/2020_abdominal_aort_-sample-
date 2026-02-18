@@ -29,5 +29,5 @@ Understanding cardiac fluid dynamics is essential for:
 
 |   |  |
 |---|--|
-|database sample |![database sample ](/aort1.png)| 
-|comparative sample |![comparative sample ](/aort2.png)| 
+|simulation |![database sample ](/aort1.png)| 
+| |![comparative sample ](/aort2.png)| 
